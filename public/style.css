@@ -1,0 +1,15 @@
+body {
+  background-color: #be1f3a;
+  color: #111111;
+  text-align:center;
+  
+}
+body h1 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+body p {
+  font-style: italic;
+}
+
+/*# sourceMappingURL=style.css.map */
